@@ -1,3 +1,4 @@
 .idea
-*.cpython*
+*.cpython-37
+*.cpython-38
 __pycache__
